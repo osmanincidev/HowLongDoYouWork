@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HowLongDoYouWork</string>
+
+    <string name="appbattitle">How Long Actually</string>
+
+    <!--Dialog Appear-->
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="NewTask">New Task</string>
+    <string name="DeleteTask">Are you sure to delete?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+
+    <!--Shared Prefences key -->
+    <string name="TIME_DATE_MODEL">com.developeros.howlongdoyouwork.SAVE_TIME_NOW</string>
+
+    <string name="year">year</string>
+    <string name="month">month</string>
+    <string name="day">day</string>
+    <string name="hour">hour</string>
+    <string name="minute">minute</string>
+    <string name="totalWork">totalWork</string>
+    <string name="work">work</string>
+    <string name="running">running</string>
+    <string name="FIRS_INDEX_STATE">com.developeros.howlongdoyouwork.FIRS_INDEX_STATE</string>
+    <string name="Filename">com.developeros.howlongdoyouwork.data</string>
+
+
+</resources>
